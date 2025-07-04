@@ -16,6 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat&logo=mysql)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 
 #### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
@@ -30,17 +31,15 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
+![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat&logo=java&logoColor=white)
 
 #### 📱 Mobile Development
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
 
 #### 🎨 UI/UX & Designing
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
 
-#### ⚙️ Tools & IDEs
 #### ⚙️ Tools & IDEs
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio)
