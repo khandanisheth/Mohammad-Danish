@@ -38,15 +38,19 @@
 
 #### 🎨 UI/UX & Designing
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
-![Video Editing](https://img.shields.io/badge/-VideoEditing-red?style=flat&logo=adobe-premiere-pro)
 
+#### ⚙️ Tools & IDEs
 #### ⚙️ Tools & IDEs
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat&logo=apachenetbeanside)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipseide)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp)
+![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=flat&logo=codeblocks)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
 
 ---
 
