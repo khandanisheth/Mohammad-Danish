@@ -76,3 +76,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danish-mern/)  
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:khandanishindia04@gmail.com)
+
+
+<a href="mailto:khandanishindia04@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email">
+</a>
+<span>📞 +91 8920424789</span>
