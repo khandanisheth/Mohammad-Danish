@@ -5,6 +5,8 @@
 🌱 Currently Learning: TypeScript, Next.js  
 🛠️ Tech Skills: React, Node.js, Express, MongoDB, Java, SQLite, Figma  
 📫 Reach me at: khandanishindia04@gmail.com  
+<span>📞 +91 8920424789</span>
+
 
 ---
 ---
